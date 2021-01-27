@@ -38,6 +38,8 @@ Watch some of my favorite lectures
 - [How To Speak by Patrick Winston](https://youtu.be/Unzc731iCUY)
 - [21. Chaos and Reductionism](https://youtu.be/_njf8jwEGRo)
 
+Read some great articles
+- [The Armed Forces Officer](https://www.gutenberg.org/files/25482/25482-h/25482-h.htm)
 -------
 
 Email me: kylepollina@pm.me
