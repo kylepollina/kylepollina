@@ -27,7 +27,6 @@ Read my wildlife surveys
 - [DuPage Birding Club Visual Checklist](https://kylepollina.github.io/wildlife/dbc-checklist/)
 - [Arlington Heights Ecological Survey Summer 2020](https://kylepollina.github.io/wildlife/index.html#summer-survey)
 - [Arlington Heights Ecological Survey Fall 2020](https://kylepollina.github.io/wildlife/index.html#fall-survey)
-- [Life Under The Waves](https://kylepollina.github.io/wildlife/index.html#life-under-the-waves)
 
 ### 🎨 __Computer Generated Art__ - https://kylepollina.github.io/art/
 
