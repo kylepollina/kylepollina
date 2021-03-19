@@ -1,8 +1,4 @@
-
-### 🦉Salut!🎢¡Hola!🛶Hello!🪐こんにちは💮Ciao!
-
-This... is my lab! 🐕 <br>
-And this is my laboratory!
+# Welcome
 
 ----------
 
