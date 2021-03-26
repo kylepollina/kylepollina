@@ -17,6 +17,7 @@ Or noodle around some other things I've done
 - [Big Ol' List of Earth Science Datasets](https://github.com/kylepollina/earthscience/blob/master/research/resources.md) - Growing list of links to
 datasets in the Earth Science realm
 - [topo2geo](https://github.com/kylepollina/topo2geo) - CLI for converting TopoJSON files to GeoJSON
+- [mlo_co2](https://github.com/kylepollina/mlo_co2) - Scrape MLO CO2 data from NOAA 
 
 ### 🌱 __Wildlife__ - https://kylepollina.github.io/wildlife/
 Read my wildlife surveys
