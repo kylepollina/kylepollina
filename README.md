@@ -1,6 +1,4 @@
-# Welcome
-
-----------
+# Hello!
 
 *My interests are...*
 
