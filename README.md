@@ -12,6 +12,7 @@ Check out my Jupyter Notebooks
 - [Deep Sea Coral Data Analysis](https://nbviewer.jupyter.org/github/kylepollina/earthscience/blob/master/notebooks/Coral%20Data/Deep%20Sea%20Coral.ipynb) - Analysis of NOAA Deep Sea Coral Dataset
 
 Or noodle around some other things I've done
+- [Objexplore](https://github.com/kylepollina/objexplore) - Python interactive object explorer
 - [Big Ol' List of Earth Science Datasets](https://github.com/kylepollina/earthscience/blob/master/research/resources.md) - Growing list of links to
 datasets in the Earth Science realm
 - [topo2geo](https://github.com/kylepollina/topo2geo) - CLI for converting TopoJSON files to GeoJSON
