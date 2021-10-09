@@ -1,5 +1,6 @@
 # ▚▚▚ Hello! ▞▞▞
 
+
 *My interests are...*
 
 ### 🌍 __Earthscience__ - https://kylepollina.github.io/earthscience/
@@ -35,4 +36,7 @@ Watch some of my favorite lectures
 -------
 
 Email me: kylepollina@pm.me
+
+[![kyles's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylepollina)](https://github.com/anuraghazra/github-readme-stats)
+
 
