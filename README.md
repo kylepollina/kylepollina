@@ -1,3 +1,3 @@
 # ▚▚▚ Hello! ▞▞▞
 
-Email me: kylepollina@pm.me
+Email me: kylepollina@gmail.com
