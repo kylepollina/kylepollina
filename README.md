@@ -1,4 +1,4 @@
 # ▚▚▚ Hello! ▞▞▞
 
-Email me: kylepollina@gmail.com
-Website: https://publish.obsidian.md/kylepollina/About
+- kylepollina@gmail.com
+- https://publish.obsidian.md/kylepollina/About
